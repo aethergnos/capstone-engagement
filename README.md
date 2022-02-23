@@ -9,6 +9,7 @@ As Blue Team, Kibana was used to review logs taken during the previous engagemen
 
 Lastly, the log data was interpreted to suggest mitigation measures for each exploit that was successfully performed.
 
+![](https://i.imgur.com/YccQxLa.png)
 
 This project demonstrates knowledge and application of the following skills and tools: 
 
